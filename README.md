@@ -2,7 +2,7 @@
 
 </br>
 
-My name is **Tanguy**, I'm a French :fr: student at **Imperial College London** :uk: doing a Master in **Electronic and Information Engineering** :zap:. I also have experience as a **Full Stack :computer: and Cloud :cloud: Developer**.
+My name is **Tanguy**, I'm a French :fr: student at **Imperial College London** :uk: doing an MEng in **Electronic and Information Engineering** :zap:. I also have experience as a **Full Stack :computer: and Cloud :cloud: Developer**.
 
 I am passionate about **emerging technologies**, **programming**, and **efficient designs** :floppy_disk:.
 
