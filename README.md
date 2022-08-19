@@ -10,7 +10,13 @@ I am also a **photograph** :camera: in my lost hours...:waxing_crescent_moon:
 
 </br>
 
-![Tanguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlp19&count_private=true&show_icons=true&hide=issues,prs&theme=buefy)
+You can have a look at my personal website [**here**](https://tlp19.github.io/portfolio/).
+
+</br>
+
+![Tanguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlp19&show_icons=true&title_color=ff6030&icon_color=c864b4&count_private=true&hide=issues)
+
+
 
 <!--
 **tlp19/tlp19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
