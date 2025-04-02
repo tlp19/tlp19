@@ -1,21 +1,21 @@
-### Hello there! 👋
+### Hiya! 👋
 
 </br>
 
-My name is **Tanguy**, I'm a French :fr: student at **Imperial College London** :uk: doing an MEng in **Electronic and Information Engineering** :zap:. I also have experience as a **Full Stack :computer: and Cloud :cloud: Developer**.
+My name is **Tanguy**, I'm a French :fr: student at **Imperial College London** :uk: doing an MSc/MA in **Innovation Design Engineering**, having previously graduated from an MEng in **Electronic and Information Engineering**:zap:. I also have experience as a **Full Stack 💻 and Cloud ☁️ Developer**, **Frontend Developer 📱** and **Data Scientist 👨‍🔬**.
 
 I am passionate about **emerging technologies**, **programming**, and **efficient designs** :floppy_disk:.
 
-I am also a **photograph** :camera: in my lost hours...:waxing_crescent_moon:
+I am also a **photographer** :camera: in my lost hours...:waxing_crescent_moon:
 
 </br>
 
-You can have a look at my personal website [**here**](https://tlp19.github.io/portfolio/).
+You can have a look at my engineering portfolio website [**here**](https://tlp19.github.io/portfolio/).
 
+<!--
 </br>
-
 ![Tanguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlp19&show_icons=true&title_color=ff6030&icon_color=c864b4&count_private=true&hide=issues)
-
+-->
 
 
 <!--
